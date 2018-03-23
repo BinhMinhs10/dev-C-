@@ -1,0 +1,15 @@
+MS-DOS and Windows use a
+On Microsoft Windows ope
+filename extension  ) is 
+txt
+. However, many other su
+Most Windows text files 
+ANSI ,   OEM  ,   Unicode
+ or                 UTF-8
+ encoding. What Windows 
+ANSI encodings
+ are usually single-byte
+System Code Page
+, non-Unicode, legacy en
+Unicode
+-encoded Windows text fi

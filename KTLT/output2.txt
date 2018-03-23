@@ -1,0 +1,46 @@
+ MS-DOS and Windows 
+    on text file for
+ at, with each line 
+ bination: carriage 
+ on for the last lin
+ inated with a CR-LF
+         arker, and 
+ any text editors (i
+ atically insert one
+ On Microsoft Window
+ s, a file is regard
+ e of the file (the 
+  filena"e extension
+           ) is "txt
+         . However, 
+ any other suffixes 
+ ple, source code fo
+        puter progra
+ s is usually kept i
+ e suffixes indicati
+ ing language in whi
+ Most Windows text f
+      ANSI", "OEM", 
+  Unicode" or "UTF-8
+  encoding. What Win
+      inology calls 
+      ANSI encodings
+  are usually single
+     enus is really 
+    Syste" Code Page
+ , non-Unicode, lega
+  locales within Win
+   ode display syste
+ . They typically in
+ on in DOS applicati
+             Unicode
+ -encoded Windows te
+           ation For
+  at. Such files nor
+ ally begin with Byt
+ unicates the endian
+   endianness proble
+                 s, 
+  any Windows progra
+ s (i.e. Notepad) pr
+  other 8-bit encodi
